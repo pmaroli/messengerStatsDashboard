@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/messengerStatsDashboard/static/css/main.937c13d4.chunk.css",
+    "main.js": "/messengerStatsDashboard/static/js/main.61d870d2.chunk.js",
+    "main.js.map": "/messengerStatsDashboard/static/js/main.61d870d2.chunk.js.map",
+    "runtime~main.js": "/messengerStatsDashboard/static/js/runtime~main.5bb46e53.js",
+    "runtime~main.js.map": "/messengerStatsDashboard/static/js/runtime~main.5bb46e53.js.map",
+    "static/js/2.eb57c07c.chunk.js": "/messengerStatsDashboard/static/js/2.eb57c07c.chunk.js",
+    "static/js/2.eb57c07c.chunk.js.map": "/messengerStatsDashboard/static/js/2.eb57c07c.chunk.js.map",
+    "index.html": "/messengerStatsDashboard/index.html",
+    "precache-manifest.16f2003d63fbfa97dee092982c088e0f.js": "/messengerStatsDashboard/precache-manifest.16f2003d63fbfa97dee092982c088e0f.js",
+    "service-worker.js": "/messengerStatsDashboard/service-worker.js",
+    "static/css/main.937c13d4.chunk.css.map": "/messengerStatsDashboard/static/css/main.937c13d4.chunk.css.map"
+  }
+}
