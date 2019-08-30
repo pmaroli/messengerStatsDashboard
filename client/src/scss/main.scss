@@ -1,0 +1,64 @@
+// Include the custom theme colors before importing the Bootstrap scss
+$theme-colors: (
+/*   "primary": white,
+  "danger": #e20b00,
+  "dark": #1B203A,
+  "secondary": rgb(37, 37, 59),
+  "success": rgb(0, 215, 0), */
+);
+
+@import "../../node_modules/bootstrap/scss/bootstrap";
+
+div.pie-root {
+  height: 100%;
+  position: relative;
+}
+
+div.pie-col {
+  margin-bottom: 20px;
+  // margin-left: 10px;
+}
+
+div.stats-col {
+  padding-left: 0;
+}
+
+h1.display-name {
+  margin-left: 1.25rem;
+  margin-top: 1rem;
+}
+
+div.overlay {
+  position: absolute;
+  display: flex;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  justify-content: center;
+  align-items: center;
+  pointer-events: none;
+  text-align: center;
+
+  div.inner-text {
+    pointer-events: all;
+    cursor: pointer;
+
+    span.inner-text {
+      font-size: 1.75rem;
+    }
+    span.sub-text {
+      font-size: 1rem;
+    }
+  }
+}
+
+div.changeChart {
+  position: absolute;
+}
+
+@media (min-width: 1200px) {
+  .container {
+    max-width: 98%;
+  }
+}
