@@ -2,7 +2,6 @@ import json
 
 
 def assignColors(index):
-    print(index)
     colors = ['#E67E22', '#3498DB', '#8E44AD',
               '#E74C3C', '#95A5A6', '#2E4053', '#28B463', '#F1C40F', '#641E16']
 

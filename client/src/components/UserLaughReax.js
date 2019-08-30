@@ -77,15 +77,15 @@ const UserLaughReax = (props) => {
   }
 
   return (
-    <div className="col-6 px-1 pb-2">
+    <div className="col-12 col-lg-6 col-xxl-4 px-2 pb-3">
 
       <div className="card shadow-sm no-pointer">
 
-        <h1 className="display-name">{name}</h1>
+        <h2 className="display-name">{name}</h2>
 
-        <div className="row">
+        <div className="row justify-content-center">
 
-          <div className="col-8 pie-col">
+          <div className="col-12 col-lg-8 px-sm-4 mb-md-2">
 
             <div className="pie-root">
               <ReaxPieChart data={chartData} />
@@ -99,7 +99,7 @@ const UserLaughReax = (props) => {
             
           </div>
 
-          <div className="col stats-col">
+          <div className="col stats-col align-middle">
             <StatisticsCard stat={totalMsgs} description="Total Messages Sent" />
             <StatisticsCard stat={reaxReceived} description="Laugh Reacts Received" />
             <StatisticsCard stat={reaxGiven} description="Laugh Reacts Given" />

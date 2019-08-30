@@ -7,7 +7,7 @@ const StatisticsCard = (props) => {
   return (
     <div className="col-12 col-md px-2 mb-2 mb-md-3 no-pointer">
 
-      <div className="card fill shadow-sm text-primary">
+      <div className="card fill statistics shadow-sm">
         <div className="card-body">
 
           <div className={`spinner-border ${spinnerDisplay}`} role="status">
