@@ -1,30 +1,254 @@
 {
-  "Gautham Kesineni": {"sent": 47036, "laugh_reax_received": 1427, "laugh_reax_given": 1163, "laugh_reax_given_dist": {"Gautham Kesineni": 0, "Prudhvi Gadiraju": 59, "Taran Saggu": 25, "Varun Vaideeswaran": 159, "Amitoj Setia": 250, "Pranav Maroli": 98, "Vikrum Nibber": 274, "Gaurav Inamdar": 162, "Ashish Birlangi": 136
-    }, "laugh_reax_received_dist": {"Gautham Kesineni": 0, "Prudhvi Gadiraju": 27, "Taran Saggu": 97, "Varun Vaideeswaran": 137, "Amitoj Setia": 313, "Pranav Maroli": 99, "Vikrum Nibber": 173, "Gaurav Inamdar": 257, "Ashish Birlangi": 324
-    }, "color": "#E67E22"
-  }, "Prudhvi Gadiraju": {"sent": 10113, "laugh_reax_received": 527, "laugh_reax_given": 191, "laugh_reax_given_dist": {"Gautham Kesineni": 27, "Prudhvi Gadiraju": 0, "Taran Saggu": 6, "Varun Vaideeswaran": 16, "Amitoj Setia": 37, "Pranav Maroli": 23, "Vikrum Nibber": 37, "Gaurav Inamdar": 31, "Ashish Birlangi": 14
-    }, "laugh_reax_received_dist": {"Gautham Kesineni": 59, "Prudhvi Gadiraju": 0, "Taran Saggu": 30, "Varun Vaideeswaran": 32, "Amitoj Setia": 103, "Pranav Maroli": 56, "Vikrum Nibber": 50, "Gaurav Inamdar": 113, "Ashish Birlangi": 84
-    }, "color": "#3498DB"
-  }, "Taran Saggu": {"sent": 88171, "laugh_reax_received": 746, "laugh_reax_given": 1156, "laugh_reax_given_dist": {"Gautham Kesineni": 97, "Prudhvi Gadiraju": 30, "Taran Saggu": 0, "Varun Vaideeswaran": 103, "Amitoj Setia": 306, "Pranav Maroli": 119, "Vikrum Nibber": 226, "Gaurav Inamdar": 117, "Ashish Birlangi": 158
-    }, "laugh_reax_received_dist": {"Gautham Kesineni": 25, "Prudhvi Gadiraju": 6, "Taran Saggu": 0, "Varun Vaideeswaran": 42, "Amitoj Setia": 260, "Pranav Maroli": 50, "Vikrum Nibber": 51, "Gaurav Inamdar": 126, "Ashish Birlangi": 186
-    }, "color": "#8E44AD"
-  }, "Varun Vaideeswaran": {"sent": 88637, "laugh_reax_received": 3556, "laugh_reax_given": 2217, "laugh_reax_given_dist": {"Gautham Kesineni": 137, "Prudhvi Gadiraju": 32, "Taran Saggu": 42, "Varun Vaideeswaran": 5, "Amitoj Setia": 830, "Pranav Maroli": 200, "Vikrum Nibber": 401, "Gaurav Inamdar": 225, "Ashish Birlangi": 345
-    }, "laugh_reax_received_dist": {"Gautham Kesineni": 159, "Prudhvi Gadiraju": 16, "Taran Saggu": 103, "Varun Vaideeswaran": 5, "Amitoj Setia": 773, "Pranav Maroli": 255, "Vikrum Nibber": 419, "Gaurav Inamdar": 625, "Ashish Birlangi": 1201
-    }, "color": "#E74C3C"
-  }, "Amitoj Setia": {"sent": 149331, "laugh_reax_received": 4822, "laugh_reax_given": 3689, "laugh_reax_given_dist": {"Gautham Kesineni": 313, "Prudhvi Gadiraju": 103, "Taran Saggu": 260, "Varun Vaideeswaran": 773, "Amitoj Setia": 7, "Pranav Maroli": 583, "Vikrum Nibber": 616, "Gaurav Inamdar": 315, "Ashish Birlangi": 719
-    }, "laugh_reax_received_dist": {"Gautham Kesineni": 250, "Prudhvi Gadiraju": 37, "Taran Saggu": 306, "Varun Vaideeswaran": 830, "Amitoj Setia": 7, "Pranav Maroli": 769, "Vikrum Nibber": 427, "Gaurav Inamdar": 815, "Ashish Birlangi": 1381
-    }, "color": "#95A5A6"
-  }, "Pranav Maroli": {"sent": 50231, "laugh_reax_received": 2020, "laugh_reax_given": 1942, "laugh_reax_given_dist": {"Gautham Kesineni": 99, "Prudhvi Gadiraju": 56, "Taran Saggu": 50, "Varun Vaideeswaran": 255, "Amitoj Setia": 769, "Pranav Maroli": 0, "Vikrum Nibber": 338, "Gaurav Inamdar": 169, "Ashish Birlangi": 206
-    }, "laugh_reax_received_dist": {"Gautham Kesineni": 98, "Prudhvi Gadiraju": 23, "Taran Saggu": 119, "Varun Vaideeswaran": 200, "Amitoj Setia": 583, "Pranav Maroli": 0, "Vikrum Nibber": 140, "Gaurav Inamdar": 363, "Ashish Birlangi": 494
-    }, "color": "#2E4053"
-  }, "Vikrum Nibber": {"sent": 64159, "laugh_reax_received": 3901, "laugh_reax_given": 1818, "laugh_reax_given_dist": {"Gautham Kesineni": 173, "Prudhvi Gadiraju": 50, "Taran Saggu": 51, "Varun Vaideeswaran": 419, "Amitoj Setia": 427, "Pranav Maroli": 140, "Vikrum Nibber": 4, "Gaurav Inamdar": 266, "Ashish Birlangi": 288
-    }, "laugh_reax_received_dist": {"Gautham Kesineni": 274, "Prudhvi Gadiraju": 37, "Taran Saggu": 226, "Varun Vaideeswaran": 401, "Amitoj Setia": 616, "Pranav Maroli": 338, "Vikrum Nibber": 4, "Gaurav Inamdar": 905, "Ashish Birlangi": 1100
-    }, "color": "#28B463"
-  }, "Gaurav Inamdar": {"sent": 68807, "laugh_reax_received": 1854, "laugh_reax_given": 3745, "laugh_reax_given_dist": {"Gautham Kesineni": 257, "Prudhvi Gadiraju": 113, "Taran Saggu": 126, "Varun Vaideeswaran": 625, "Amitoj Setia": 815, "Pranav Maroli": 363, "Vikrum Nibber": 905, "Gaurav Inamdar": 0, "Ashish Birlangi": 541
-    }, "laugh_reax_received_dist": {"Gautham Kesineni": 162, "Prudhvi Gadiraju": 31, "Taran Saggu": 117, "Varun Vaideeswaran": 225, "Amitoj Setia": 315, "Pranav Maroli": 169, "Vikrum Nibber": 266, "Gaurav Inamdar": 0, "Ashish Birlangi": 569
-    }, "color": "#F1C40F"
-  }, "Ashish Birlangi": {"sent": 105155, "laugh_reax_received": 2408, "laugh_reax_given": 5340, "laugh_reax_given_dist": {"Gautham Kesineni": 324, "Prudhvi Gadiraju": 84, "Taran Saggu": 186, "Varun Vaideeswaran": 1201, "Amitoj Setia": 1381, "Pranav Maroli": 494, "Vikrum Nibber": 1100, "Gaurav Inamdar": 569, "Ashish Birlangi": 1
-    }, "laugh_reax_received_dist": {"Gautham Kesineni": 136, "Prudhvi Gadiraju": 14, "Taran Saggu": 158, "Varun Vaideeswaran": 345, "Amitoj Setia": 719, "Pranav Maroli": 206, "Vikrum Nibber": 288, "Gaurav Inamdar": 541, "Ashish Birlangi": 1
-    }, "color": "#641E16"
+  "Amitoj Setia": {
+    "color": "#95A5A6",
+    "laugh_reax_given": 3689,
+    "laugh_reax_given_dist": {
+      "Amitoj Setia": 7,
+      "Ashish Birlangi": 719,
+      "Gaurav Inamdar": 315,
+      "Gautham Kesineni": 313,
+      "Pranav Maroli": 583,
+      "Prudhvi Gadiraju": 103,
+      "Taran Saggu": 260,
+      "Varun Vaideeswaran": 773,
+      "Vikrum Nibber": 616
+    },
+    "laugh_reax_received": 4822,
+    "laugh_reax_received_dist": {
+      "Amitoj Setia": 7,
+      "Ashish Birlangi": 1381,
+      "Gaurav Inamdar": 815,
+      "Gautham Kesineni": 250,
+      "Pranav Maroli": 769,
+      "Prudhvi Gadiraju": 37,
+      "Taran Saggu": 306,
+      "Varun Vaideeswaran": 830,
+      "Vikrum Nibber": 427
+    },
+    "sent": 149331
+  },
+  "Ashish Birlangi": {
+    "color": "#641E16",
+    "laugh_reax_given": 5340,
+    "laugh_reax_given_dist": {
+      "Amitoj Setia": 1381,
+      "Ashish Birlangi": 1,
+      "Gaurav Inamdar": 569,
+      "Gautham Kesineni": 324,
+      "Pranav Maroli": 494,
+      "Prudhvi Gadiraju": 84,
+      "Taran Saggu": 186,
+      "Varun Vaideeswaran": 1201,
+      "Vikrum Nibber": 1100
+    },
+    "laugh_reax_received": 2408,
+    "laugh_reax_received_dist": {
+      "Amitoj Setia": 719,
+      "Ashish Birlangi": 1,
+      "Gaurav Inamdar": 541,
+      "Gautham Kesineni": 136,
+      "Pranav Maroli": 206,
+      "Prudhvi Gadiraju": 14,
+      "Taran Saggu": 158,
+      "Varun Vaideeswaran": 345,
+      "Vikrum Nibber": 288
+    },
+    "sent": 105155
+  },
+  "Gaurav Inamdar": {
+    "color": "#F1C40F",
+    "laugh_reax_given": 3745,
+    "laugh_reax_given_dist": {
+      "Amitoj Setia": 815,
+      "Ashish Birlangi": 541,
+      "Gaurav Inamdar": 0,
+      "Gautham Kesineni": 257,
+      "Pranav Maroli": 363,
+      "Prudhvi Gadiraju": 113,
+      "Taran Saggu": 126,
+      "Varun Vaideeswaran": 625,
+      "Vikrum Nibber": 905
+    },
+    "laugh_reax_received": 1854,
+    "laugh_reax_received_dist": {
+      "Amitoj Setia": 315,
+      "Ashish Birlangi": 569,
+      "Gaurav Inamdar": 0,
+      "Gautham Kesineni": 162,
+      "Pranav Maroli": 169,
+      "Prudhvi Gadiraju": 31,
+      "Taran Saggu": 117,
+      "Varun Vaideeswaran": 225,
+      "Vikrum Nibber": 266
+    },
+    "sent": 68807
+  },
+  "Gautham Kesineni": {
+    "color": "#E67E22",
+    "laugh_reax_given": 1163,
+    "laugh_reax_given_dist": {
+      "Amitoj Setia": 250,
+      "Ashish Birlangi": 136,
+      "Gaurav Inamdar": 162,
+      "Gautham Kesineni": 0,
+      "Pranav Maroli": 98,
+      "Prudhvi Gadiraju": 59,
+      "Taran Saggu": 25,
+      "Varun Vaideeswaran": 159,
+      "Vikrum Nibber": 274
+    },
+    "laugh_reax_received": 1427,
+    "laugh_reax_received_dist": {
+      "Amitoj Setia": 313,
+      "Ashish Birlangi": 324,
+      "Gaurav Inamdar": 257,
+      "Gautham Kesineni": 0,
+      "Pranav Maroli": 99,
+      "Prudhvi Gadiraju": 27,
+      "Taran Saggu": 97,
+      "Varun Vaideeswaran": 137,
+      "Vikrum Nibber": 173
+    },
+    "sent": 47036
+  },
+  "Pranav Maroli": {
+    "color": "#2E4053",
+    "laugh_reax_given": 1942,
+    "laugh_reax_given_dist": {
+      "Amitoj Setia": 769,
+      "Ashish Birlangi": 206,
+      "Gaurav Inamdar": 169,
+      "Gautham Kesineni": 99,
+      "Pranav Maroli": 0,
+      "Prudhvi Gadiraju": 56,
+      "Taran Saggu": 50,
+      "Varun Vaideeswaran": 255,
+      "Vikrum Nibber": 338
+    },
+    "laugh_reax_received": 2020,
+    "laugh_reax_received_dist": {
+      "Amitoj Setia": 583,
+      "Ashish Birlangi": 494,
+      "Gaurav Inamdar": 363,
+      "Gautham Kesineni": 98,
+      "Pranav Maroli": 0,
+      "Prudhvi Gadiraju": 23,
+      "Taran Saggu": 119,
+      "Varun Vaideeswaran": 200,
+      "Vikrum Nibber": 140
+    },
+    "sent": 50231
+  },
+  "Prudhvi Gadiraju": {
+    "color": "#3498DB",
+    "laugh_reax_given": 191,
+    "laugh_reax_given_dist": {
+      "Amitoj Setia": 37,
+      "Ashish Birlangi": 14,
+      "Gaurav Inamdar": 31,
+      "Gautham Kesineni": 27,
+      "Pranav Maroli": 23,
+      "Prudhvi Gadiraju": 0,
+      "Taran Saggu": 6,
+      "Varun Vaideeswaran": 16,
+      "Vikrum Nibber": 37
+    },
+    "laugh_reax_received": 527,
+    "laugh_reax_received_dist": {
+      "Amitoj Setia": 103,
+      "Ashish Birlangi": 84,
+      "Gaurav Inamdar": 113,
+      "Gautham Kesineni": 59,
+      "Pranav Maroli": 56,
+      "Prudhvi Gadiraju": 0,
+      "Taran Saggu": 30,
+      "Varun Vaideeswaran": 32,
+      "Vikrum Nibber": 50
+    },
+    "sent": 10113
+  },
+  "Taran Saggu": {
+    "color": "#8E44AD",
+    "laugh_reax_given": 1156,
+    "laugh_reax_given_dist": {
+      "Amitoj Setia": 306,
+      "Ashish Birlangi": 158,
+      "Gaurav Inamdar": 117,
+      "Gautham Kesineni": 97,
+      "Pranav Maroli": 119,
+      "Prudhvi Gadiraju": 30,
+      "Taran Saggu": 0,
+      "Varun Vaideeswaran": 103,
+      "Vikrum Nibber": 226
+    },
+    "laugh_reax_received": 746,
+    "laugh_reax_received_dist": {
+      "Amitoj Setia": 260,
+      "Ashish Birlangi": 186,
+      "Gaurav Inamdar": 126,
+      "Gautham Kesineni": 25,
+      "Pranav Maroli": 50,
+      "Prudhvi Gadiraju": 6,
+      "Taran Saggu": 0,
+      "Varun Vaideeswaran": 42,
+      "Vikrum Nibber": 51
+    },
+    "sent": 88171
+  },
+  "Varun Vaideeswaran": {
+    "color": "#E74C3C",
+    "laugh_reax_given": 2217,
+    "laugh_reax_given_dist": {
+      "Amitoj Setia": 830,
+      "Ashish Birlangi": 345,
+      "Gaurav Inamdar": 225,
+      "Gautham Kesineni": 137,
+      "Pranav Maroli": 200,
+      "Prudhvi Gadiraju": 32,
+      "Taran Saggu": 42,
+      "Varun Vaideeswaran": 5,
+      "Vikrum Nibber": 401
+    },
+    "laugh_reax_received": 3556,
+    "laugh_reax_received_dist": {
+      "Amitoj Setia": 773,
+      "Ashish Birlangi": 1201,
+      "Gaurav Inamdar": 625,
+      "Gautham Kesineni": 159,
+      "Pranav Maroli": 255,
+      "Prudhvi Gadiraju": 16,
+      "Taran Saggu": 103,
+      "Varun Vaideeswaran": 5,
+      "Vikrum Nibber": 419
+    },
+    "sent": 88637
+  },
+  "Vikrum Nibber": {
+    "color": "#28B463",
+    "laugh_reax_given": 1818,
+    "laugh_reax_given_dist": {
+      "Amitoj Setia": 427,
+      "Ashish Birlangi": 288,
+      "Gaurav Inamdar": 266,
+      "Gautham Kesineni": 173,
+      "Pranav Maroli": 140,
+      "Prudhvi Gadiraju": 50,
+      "Taran Saggu": 51,
+      "Varun Vaideeswaran": 419,
+      "Vikrum Nibber": 4
+    },
+    "laugh_reax_received": 3901,
+    "laugh_reax_received_dist": {
+      "Amitoj Setia": 616,
+      "Ashish Birlangi": 1100,
+      "Gaurav Inamdar": 905,
+      "Gautham Kesineni": 274,
+      "Pranav Maroli": 338,
+      "Prudhvi Gadiraju": 37,
+      "Taran Saggu": 226,
+      "Varun Vaideeswaran": 401,
+      "Vikrum Nibber": 4
+    },
+    "sent": 64159
   }
 }

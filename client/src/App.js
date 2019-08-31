@@ -20,6 +20,7 @@ function App() {
     }
 
     axios.get('/getLikes').then(res => {
+      console.log(res.data)
       parseData(res.data)
     }).catch(err => {
       console.log(err)

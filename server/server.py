@@ -10,7 +10,9 @@ def serve():
 
 @app.route('/getLikes')
 def function():
-  return parseMessages('messages.json')
+  val = parseMessages('messages.json')
+  print( val )
+  return val
 
 if __name__ == '__main__':
   app.run()
