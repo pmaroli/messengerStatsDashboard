@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/messengerStatsDashboard/static/css/main.937c13d4.chunk.css",
-    "main.js": "/messengerStatsDashboard/static/js/main.61d870d2.chunk.js",
-    "main.js.map": "/messengerStatsDashboard/static/js/main.61d870d2.chunk.js.map",
+    "main.js": "/messengerStatsDashboard/static/js/main.f22f7255.chunk.js",
+    "main.js.map": "/messengerStatsDashboard/static/js/main.f22f7255.chunk.js.map",
     "runtime~main.js": "/messengerStatsDashboard/static/js/runtime~main.5bb46e53.js",
     "runtime~main.js.map": "/messengerStatsDashboard/static/js/runtime~main.5bb46e53.js.map",
     "static/js/2.eb57c07c.chunk.js": "/messengerStatsDashboard/static/js/2.eb57c07c.chunk.js",
     "static/js/2.eb57c07c.chunk.js.map": "/messengerStatsDashboard/static/js/2.eb57c07c.chunk.js.map",
     "index.html": "/messengerStatsDashboard/index.html",
-    "precache-manifest.16f2003d63fbfa97dee092982c088e0f.js": "/messengerStatsDashboard/precache-manifest.16f2003d63fbfa97dee092982c088e0f.js",
+    "precache-manifest.0e335289bcf43672b32680e5708ff5f2.js": "/messengerStatsDashboard/precache-manifest.0e335289bcf43672b32680e5708ff5f2.js",
     "service-worker.js": "/messengerStatsDashboard/service-worker.js",
     "static/css/main.937c13d4.chunk.css.map": "/messengerStatsDashboard/static/css/main.937c13d4.chunk.css.map"
   }

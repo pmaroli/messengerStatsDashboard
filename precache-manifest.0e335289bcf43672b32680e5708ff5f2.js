@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "620be1ecc5c698732f11188bc0df5dfa",
+    "revision": "d6fff11fb1d9238328713373ae86b99a",
     "url": "/messengerStatsDashboard/index.html"
   },
   {
-    "revision": "f401d1b60a667b8be799",
+    "revision": "33ca5e09f7c114bb14a7",
     "url": "/messengerStatsDashboard/static/css/main.937c13d4.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/messengerStatsDashboard/static/js/2.eb57c07c.chunk.js"
   },
   {
-    "revision": "f401d1b60a667b8be799",
-    "url": "/messengerStatsDashboard/static/js/main.61d870d2.chunk.js"
+    "revision": "33ca5e09f7c114bb14a7",
+    "url": "/messengerStatsDashboard/static/js/main.f22f7255.chunk.js"
   },
   {
     "revision": "086b63f87fc46ba2b7e3",
